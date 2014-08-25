@@ -1,0 +1,19 @@
+== les bars qui sont bien ==
+
+* le festin nu
+* les trois 8
+* l'express de lyon
+* la fine mousse
+* la marine
+* le o'neils
+
+== les bars a tester ==
+
+* le supercoin
+* le saint steph (pas encore fait), 
+* le bouillon belge
+
+== les bars qui sont moins bien ==
+
+* le trappiste
+* le halls beer
