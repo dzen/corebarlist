@@ -8,6 +8,11 @@
 * le o'neils
 * brewberry
 * l'envol quebecquois
+* red house (cocktail)
+* lone palm (cocktail petit)
+* moonshiner (cocktail)
+* experimental cocktail club (cocktail petit)
+* Le Falstaff (montparnass)
 
 == les bars a tester ==
 
@@ -15,6 +20,10 @@
 * le saint steph
 * le bouillon belge
 * café titon
+
+== bar sympa ==
+
+* le tiki lounge (cocktail)
 
 == les bars qui sont moins bien ==
 
