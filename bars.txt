@@ -9,13 +9,12 @@
 * brewberry
 * l'envol quebecquois
 
-
-
 == les bars a tester ==
 
 * le supercoin
-* le saint steph (pas encore fait), 
+* le saint steph
 * le bouillon belge
+* café titon
 
 == les bars qui sont moins bien ==
 
