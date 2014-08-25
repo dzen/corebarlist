@@ -13,6 +13,8 @@
 * moonshiner (cocktail)
 * experimental cocktail club (cocktail petit)
 * Le Falstaff (montparnasse)
+* calbar (cocktail petit)
+* le forum (cocktail++ cher)
 
 == les bars a tester ==
 
@@ -20,10 +22,12 @@
 * le saint steph
 * le bouillon belge
 * café titon
+* little red door
 
 == bar sympa ==
 
 * le tiki lounge (cocktail)
+* troll
 
 == les bars qui sont moins bien ==
 
