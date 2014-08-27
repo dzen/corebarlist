@@ -13,11 +13,11 @@
 * moonshiner (cocktail)
 * experimental cocktail club (cocktail petit)
 * Le Falstaff (montparnasse)
+* le Bouillon St Stef
 
 == les bars a tester ==
 
 * le supercoin
-* le saint steph
 * le bouillon belge
 * café titon
 
