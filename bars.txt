@@ -20,6 +20,8 @@
 * le supercoin
 * le bouillon belge
 * café titon
+* la mecanique Ondulatoire
+* le trucmuch
 
 == bar sympa ==
 
@@ -29,3 +31,4 @@
 
 * le trappiste
 * le halls beer
+* le gamin
