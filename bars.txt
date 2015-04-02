@@ -14,18 +14,26 @@
 * experimental cocktail club (cocktail petit)
 * Le Falstaff (montparnasse)
 * le Bouillon St Stef
+* le supercoin
+* le bouillon belge
+* l'Estaminet (rue Oberkampf)
+* Au Fut et à Mesure (grands boulevards)
+* la Tireuse (Panthéon)
 
 == les bars a tester ==
 
-* le supercoin
-* le bouillon belge
-* café titon
+* <vide>
 
 == bar sympa ==
 
 * le tiki lounge (cocktail)
+* café titon
 
 == les bars qui sont moins bien ==
 
-* le trappiste
-* le halls beer
+* le trappiste (attention à l'addition)
+* le halls beer (fraicheur de la bouffe ?)
+
+== les bars à éviter ==
+
+* Le Falstaff (bastille)
