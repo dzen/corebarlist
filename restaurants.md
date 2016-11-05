@@ -20,6 +20,12 @@
 
     Fait le 15/10/2016
 
+-   [Benoit](https://www.yelp.fr/biz/benoit-paris-6) (Français)
+
+    20, rue Saint Martin - Paris 75004
+
+    Fait le 05/11/2016
+
 ## À Faire
 
 -   [Bistro Mericourt](http://lebistromericourt.com) (Français)
@@ -43,3 +49,7 @@
 -   [Terroir Parisien](https://www.yelp.fr/biz/terroir-parisien-paris-2) (Français)
 
     25 place de la Bourse - 75002 Paris
+
+-   [Sola](https://www.yelp.com/biz/sola-paris) (Français / Japonais)
+
+    12, rue de l'Hôtel Colbert - 75005 Paris
